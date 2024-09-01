@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define colors for the white theme -->
+    <color name="primary_background">#FFFFFFFF</color> <!-- White background -->
+    <color name="primary_surface">#FFFFFFFF</color>   <!-- White surface -->
+    <color name="on_primary">#FF000000</color>         <!-- Black text on primary -->
+    <color name="on_surface">#FF000000</color>         <!-- Black text on surface -->
+
+    <!-- Optional: Define additional colors if needed -->
+    <color name="soft_pink">#FFFFC1E3</color>   <!-- Light, soft pink -->
+    <color name="light_grey">#FFFAFAFA</color>  <!-- Very light grey -->
+    <color name="off_white">#FFF5F5F5</color>   <!-- Slightly off-white -->
+    <color name="light_grey_2">#FFE0E0E0</color> <!-- Light grey, slightly darker -->
+    <color name="pale_pink">#FFFFE4E1</color>   <!-- Very light pale pink -->
+</resources>
